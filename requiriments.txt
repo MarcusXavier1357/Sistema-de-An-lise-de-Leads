@@ -1,0 +1,12 @@
+dash
+dash-bootstrap-components
+pandas
+numpy
+plotly
+reportlab
+matplotlib
+seaborn
+openpyxl
+xlrd
+gunicorn
+statsmodels
